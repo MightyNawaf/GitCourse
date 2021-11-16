@@ -16,7 +16,7 @@ body{
   background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
 }
 .wrapper{
-  background: #fff;
+  background: rgb(107, 23, 23);
   max-width: 400px;
   width: 100%;
   margin: 120px auto;
